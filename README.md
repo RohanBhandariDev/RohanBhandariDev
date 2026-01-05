@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm <ROHAN>
 
-<!--
-**RohanBhandariDev/RohanBhandariDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend engineering learner focused on understanding systems from first principles.
 
-Here are some ideas to get you started:
+## Current Focus
+- JavaScript (deep fundamentals)
+- Node.js runtime behavior
+- Asynchronous programming
+- TypeScript (learning in parallel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How I Learn
+- Build from basics instead of copying patterns
+- Write small, focused examples
+- Document what I understand and what I don’t
+- Prioritize clarity over speed
+
+## Learning Repositories
+- js-learning-roadmap → structured JavaScript learning
+- (more added as I progress)
+
+## Long-Term Goals
+- Strong backend fundamentals
+- System-level understanding
+- Writing clean, maintainable code
+
+---
+
+Learning in public. Improving daily.
+****
